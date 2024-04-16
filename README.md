@@ -14,6 +14,7 @@ An **unofficial** implementation of VisionMamba(ViM) by mmsegmentation 0.30.
 - compare the difference between bidirectional ssm and double unidirectional ssm (flip sequence or not)
 - add a additional proj in front of (x+skip) skip connection
 - add a middle cls token when training
+- **apply the official ViM pretrained weights**
 
 ## Citation
 Refer to plainmamba for mmseg style code, thanks!
